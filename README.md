@@ -53,10 +53,11 @@ Dashboard file: `Dashboard_Project.xlsm`
 ---
 
 ## How to Use
-1. Download the files:
-   - `Raw Data.xlsx`
-   - `Dashboard_Project.xlsm`
-2. Open `Dashboard_Project.xlsm` in Excel.
+1. Download the project files:
+   - [**Raw Data.xlsx**](https://github.com/Ayan-Jain29/Interactive-Sales-Analytics-Dashboard/blob/main/Raw%20Data.xlsx)
+   - [**Dashboard_Project.xlsm**](https://github.com/Ayan-Jain29/Interactive-Sales-Analytics-Dashboard/blob/dcfdc133f45ac3502cbd9ee5f4f8fd94bd8d80a9/Dashboard_Project.xlsm)
+2. Open **`Dashboard_Project.xlsm`** in Microsoft Excel.
 3. Enable **Macros** when prompted.
-4. Use the **city selection dropdown** to explore sales data for that specific city.
-5. View KPIs, charts, and summaries automatically updated based on your selection.
+4. Use the **city selection dropdown** to explore sales data for a specific city.
+5. View **KPIs**, **charts**, and **summaries** automatically updated based on your selection.
+
